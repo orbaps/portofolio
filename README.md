@@ -1,8 +1,8 @@
-![Logo](cp.png)
 
-# Amine Portfolio Showcase 💻
 
-Welcome to **Amine's Portfolio Showcase**!  
+# Portfolio Showcase 💻
+
+Welcome to **Amarendra's Portfolio Showcase**!  
 A modern **portfolio website** designed to showcase projects, skills, and personal work using **HTML, CSS, and JavaScript**.  
 It is fully **responsive**, interactive, and visually appealing across desktop, tablet, and mobile devices.
 
@@ -44,32 +44,16 @@ You can view the live website here: [Live Demo](https://stalwart-baklava-8ed433.
 - **Font Awesome / Boxicons** – Icons  
 - **AOS.js** – Scroll animations  
 
----
-
-## License
-
-This project is licensed under the terms described in the [LICENSE](LICENSE) file.
-
----
-
-## 🚀 How to Use / Customize
-
-1. **Clone the repository:**
-
- ---
 
 ## 📬 Contact
 
-- Email: aminehamzaoui1925@gmail.com   
-- Location: Boumerdès, Algeria  
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b/)  
-- GitHub: [GitHub](https://github.com/Saboo24)  
-- Instagram: [Instagram](https://www.instagram.com/a__m.i.n__e/?utm_source=ig_web_button_share_sheet)
+- Email: amarendrapratapsingh.2004@gmail.com
+- Location: India
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/orbaps/)  
+- GitHub: [GitHub](https://github.com/orbaps)  
+- Instagram: [Instagram](https://www.instagram.com/orbaps)
 
 ---
 
-Made with ❤️ by **Amine Hamzaoui**
+Made with ❤️ by **Amarendra Pratap Singh**
 
-
-```bash
-git clone https://github.com/Saboo24/portfolio-showcase.git
